@@ -1,7 +1,7 @@
-# Election_Analysis
+# Election Analysis
 
 ## Project Overview
-A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election.
+A Colorado Board of Elections needs to complete the election audit of a recent local congressional election. Analysis plan:
 
 1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who received votes.
@@ -27,15 +27,15 @@ The analysis of the election shows that:
 - The winner of the election was:
   - Diana DeGette, who received 73.8% of the vote and 272,892 votes.
   
-## Challenge Overview
-The Colorado Board of Elections employee wants you to add an analysis of the results for each county, regarding voter turnout.
+## Overview
+The Colorado Board of Elections wants an analysis of the results for each county, regarding voter turnout.
 
 1. Get a complete list of counties where citizens voted.
 2. Calculate the total number of votes each county received.
 3. Calculate the percentage of votes each county received.
 4. Determine the county with the largest voter turnout.
 
-## Challenge Summary
+## Summary
 The analysis of county elections show that:
 - The counties were:
   - Arapahoe
